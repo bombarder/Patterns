@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c10f62b-01c4-4016-86f2-a8ddf93ec970" name="Default" comment="" />
+    <list default="true" id="8c10f62b-01c4-4016-86f2-a8ddf93ec970" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Patterns.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -613,7 +615,7 @@
       <option name="presentableId" value="Default" />
       <updated>1471166106419</updated>
       <workItem from="1471166107761" duration="211000" />
-      <workItem from="1471166347268" duration="581000" />
+      <workItem from="1471166347268" duration="710000" />
     </task>
     <task id="LOCAL-00001" summary="Patterns initial commit">
       <created>1471166781598</created>
@@ -626,7 +628,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="792000" />
+    <option name="totallyTimeSpent" value="921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1934" height="1056" extended-state="0" />
