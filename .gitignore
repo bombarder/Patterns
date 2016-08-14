@@ -1,5 +1,6 @@
 # IDEA
 *.iml
+*.xml
 .idea/
 
 # Java out
