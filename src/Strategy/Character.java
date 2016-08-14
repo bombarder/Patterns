@@ -2,10 +2,10 @@ package Strategy;
 
 public abstract class Character {
 
-    WeaponBehavior weaponBehavior;
+    WeaponBehavior weapon;
     abstract void fight();
 
-    public void setWeaponBehavior(WeaponBehavior weaponBehavior){
-        this.weaponBehavior = weaponBehavior;
+    public void setWeapon(WeaponBehavior weapon){
+        this.weapon = weapon;
     }
 }

@@ -1,6 +1,6 @@
 package Strategy;
 
-public class King extends Character {
+public class Queen extends Character{
     @Override
     void fight() {
         System.out.print(this.getClass().getSimpleName() + " ");
